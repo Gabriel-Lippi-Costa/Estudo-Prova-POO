@@ -7,14 +7,14 @@ public class Personagem {
     int sono;
 
     void cacar() {
-        System.out.println(nome + "caçando");
+        System.out.println(nome + " caçando");
     }
 
     void comer() {
-        System.out.println(nome + "comendo");
+        System.out.println(nome + " comendo");
     }
 
     void dormir() {
-        System.out.println(nome + "dormindo");
+        System.out.println(nome + " dormindo");
     }
 }
